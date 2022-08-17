@@ -1,15 +1,15 @@
 {
-  "main.css": "/Textutils-React/static/css/main.e9489033.chunk.css",
-  "main.js": "/Textutils-React/static/js/main.2cae3639.chunk.js",
-  "main.js.map": "/Textutils-React/static/js/main.2cae3639.chunk.js.map",
-  "static/js/1.cc360fb6.chunk.js": "/Textutils-React/static/js/1.cc360fb6.chunk.js",
-  "static/js/1.cc360fb6.chunk.js.map": "/Textutils-React/static/js/1.cc360fb6.chunk.js.map",
-  "static/js/2.946d8365.chunk.js": "/Textutils-React/static/js/2.946d8365.chunk.js",
-  "static/js/2.946d8365.chunk.js.map": "/Textutils-React/static/js/2.946d8365.chunk.js.map",
-  "runtime~main.js": "/Textutils-React/static/js/runtime~main.a68764a3.js",
-  "runtime~main.js.map": "/Textutils-React/static/js/runtime~main.a68764a3.js.map",
-  "static/css/main.e9489033.chunk.css.map": "/Textutils-React/static/css/main.e9489033.chunk.css.map",
-  "index.html": "/Textutils-React/index.html",
-  "precache-manifest.6dfaf631fe0fd17c0c2d470d18d5ecd2.js": "/Textutils-React/precache-manifest.6dfaf631fe0fd17c0c2d470d18d5ecd2.js",
-  "service-worker.js": "/Textutils-React/service-worker.js"
+  "main.css": "/react-update/static/css/main.74dcfa58.chunk.css",
+  "main.js": "/react-update/static/js/main.cbe88268.chunk.js",
+  "main.js.map": "/react-update/static/js/main.cbe88268.chunk.js.map",
+  "static/js/1.97af9aab.chunk.js": "/react-update/static/js/1.97af9aab.chunk.js",
+  "static/js/1.97af9aab.chunk.js.map": "/react-update/static/js/1.97af9aab.chunk.js.map",
+  "static/js/2.94ad3034.chunk.js": "/react-update/static/js/2.94ad3034.chunk.js",
+  "static/js/2.94ad3034.chunk.js.map": "/react-update/static/js/2.94ad3034.chunk.js.map",
+  "runtime~main.js": "/react-update/static/js/runtime~main.0fa2a219.js",
+  "runtime~main.js.map": "/react-update/static/js/runtime~main.0fa2a219.js.map",
+  "static/css/main.74dcfa58.chunk.css.map": "/react-update/static/css/main.74dcfa58.chunk.css.map",
+  "index.html": "/react-update/index.html",
+  "precache-manifest.a2182ea1df91f6467e7e0047f9f86311.js": "/react-update/precache-manifest.a2182ea1df91f6467e7e0047f9f86311.js",
+  "service-worker.js": "/react-update/service-worker.js"
 }
